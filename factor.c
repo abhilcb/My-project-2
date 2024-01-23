@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// question no. 9
 void printFactors(int number) {
     printf("Factors of %d are: ", number);
 
