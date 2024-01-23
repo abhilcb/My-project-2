@@ -1,4 +1,5 @@
 #include <stdio.h>
+// question no.5
 
 int main() {
     // Declare variables to store input and result
