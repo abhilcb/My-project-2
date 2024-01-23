@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+// question no.7
 
 // Function to check if a string is palindrome
 int isPalindrome(const char *str) {
